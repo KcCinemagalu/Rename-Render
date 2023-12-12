@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "14356452")
 
 API_HASH = os.environ.get("API_HASH", "cac21249a0c6373a1b742afb8dbc9cb7")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6354107335:AAF0l1eiZFjSjmhzdUkDp39M3MfKFtgXR6I") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6778420102:AAGnxl6kKO6D5IkhsTZum1-_9BiZK5WUXIE") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Kc_Rename") 
 
