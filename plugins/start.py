@@ -23,7 +23,7 @@ async def start(client, message):
         InlineKeyboardButton(" Developer ", url='https://t.me/KingKc18')
         ],[
         InlineKeyboardButton(' Updates', url='https://t.me/Kc_Rename'),
-        InlineKeyboardButton(' Support', url='https://t.me/vj_bot_disscussion')
+        InlineKeyboardButton(' Support', url='https://t.me/KingKc18')
         ],[
         InlineKeyboardButton(' About', callback_data='about'),
         InlineKeyboardButton(' Help', callback_data='help')
@@ -77,7 +77,7 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton(" Developer ", url='https://t.me/KingKc18')
         ],[
         InlineKeyboardButton(' Updates', url='https://t.me/Kc_Rename'),
-        InlineKeyboardButton(' Support', url='https://t.me/vj_bot_disscussion')
+        InlineKeyboardButton(' Support', url='https://t.me/KingKc18')
         ],[
         InlineKeyboardButton(' About', callback_data='about'),
         InlineKeyboardButton(' Help', callback_data='help')
