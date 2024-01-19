@@ -1,6 +1,9 @@
-pyrogram
+aiofiles
+Pillow
+humanize
+hachoir
+motor
+pyrogram==2.0.35
 TgCrypto
-pymongo[srv]
-Flask==2.2.2
-gunicorn==20.1.0
+dnspython
 aiohttp
