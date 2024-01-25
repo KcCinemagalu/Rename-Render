@@ -7,13 +7,13 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "14356452")
+API_ID = os.environ.get("API_ID", "")
 
-API_HASH = os.environ.get("API_HASH", "cac21249a0c6373a1b742afb8dbc9cb7")
+API_HASH = os.environ.get("API_HASH", "")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6778420102:AAGnxl6kKO6D5IkhsTZum1-_9BiZK5WUXIE") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "Kc_Rename") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Kc_Rename")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://Dspqy:tmGscR4ULPdTq3zk@cluster0.ft4wcva.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
